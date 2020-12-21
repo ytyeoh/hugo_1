@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: http://demo1.gotravel.name.my/
 languageCode: en-us
 title: Hugo Fresh Theme
 theme: hugo-fresh
@@ -78,7 +78,7 @@ params:
     title: You're here because you want the best
     subtitle: And we know it
     features:
-    - title: Professional
+    - title: validate
       text: We care about your property - and we do everyhting to ensure your experience with us is nothing short of perfect. We offer our expertise, experience and advice to ensure that your maximize your interest.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe

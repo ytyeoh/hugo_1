@@ -3,15 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/project/first/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>http://demo1.gotravel.name.my/</loc>
   </url>
   
 </urlset>

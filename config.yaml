@@ -75,19 +75,18 @@ params:
       url: https://api.whatsapp.com/send?phone=60174771800&text=Hi%20i%20would%20like%20to%20ask%20for%20property%20management
       buttonText: Whatsapp Us
   section2:
-    title: we server best
-    subtitle: And we know it
+    title: Main Job Scope
+    subtitle: Our team is able to offer a comprehensive management services to our clients
     features:
-    - title: validate
-      text: We care about your property - and we do everyhting to ensure your experience with us is nothing short of perfect. We offer our expertise, experience and advice to ensure that your maximize your interest.
+    - title: Collection of Service Charges
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
-    - title: Creativity
-      text: Creativity is the most essential ingredient in our line of service as we bekieve creativity can solve many problems. We never settle for easy soluions; we focus on developing innovative plans and combining technology 
-      icon: doc-sync
-    - title: Nomad system
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: mobile-feed
+    - title: Servicing of Notices
+    - title: Maintenance of Building
+    - title: Accounts & Debtors Control
+    - title: AGM & EGM
+    - title: Insurance Premium
+    - title: Strata Management Law - Bylaws
+    - title: Liaise With Local Authority -COB, Tribunal, PBA, PBS, TNB & etc...
   section3:
     title: One platform
     subtitle: To rule them all

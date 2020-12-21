@@ -75,7 +75,7 @@ params:
       url: https://api.whatsapp.com/send?phone=60174771800&text=Hi%20i%20would%20like%20to%20ask%20for%20property%20management
       buttonText: Whatsapp Us
   section2:
-    title: You're here because you want the best
+    title: we server best
     subtitle: And we know it
     features:
     - title: validate
